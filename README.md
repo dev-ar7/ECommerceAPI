@@ -1,4 +1,10 @@
 # EcommerceAPI
+ECommerce’s API platform provides many products, and resources that enable you to harness the power of ECommerce’s open, global, and real-time network.
+This page describes what’s possible to build with the different API endpoints that are available on the platform, and how to get the access and information that you need to get started.
+We regularly update and improve the experience and products available on the platform. These improvements make it important for you to stay informed so you don’t miss any updates.
+Here you can Signup, Login, Add, View, Update and Delete Products. In this API there's two type of User, AdminUser or NormalUser.
+
+
 <div id="requirements">
 <h2>Requirements to use!</h2>
 <ol>
