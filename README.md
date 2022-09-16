@@ -14,5 +14,31 @@
     <li>type: python3 manage.py migrate</li>
     <li>type: python3 manage.py runserver</li>
 </ol>
-<p>And that's it!</p>
 </div>
+
+## Endpoints  Instruction 
+Method | Endpoint | Functionanlity
+--- | --- | ---
+GET | `/api/v1/` | API Documentation
+
+#### User Endpoints
+
+Method | Endpoint | Functionality
+--- | --- | ---
+POST | `api/v1/ecom/auth/` | Creates a user
+GET | `api/v1/ecom/auth/` | List all users
+GET | `api/v1/ecom/auth/{id}` | User details
+PUT | `api/v1/ecom/auth/{id}` | User update
+PATCH | `api/v1/ecom/auth/{id}` | User partial update
+DELETE | `api/v1/ecom/auth/{id}` | User delete
+
+#### Products Endpoints
+
+Method | Endpoint | Functionality
+--- | --- | ---
+GET | `api/v1/ecom/` | List all products
+POST | `api/v1/ecom/product/create` | Creates a product
+GET | `api/v1/ecom/product/detail/{id}/` | Product details
+PUT | `api/v1/ecom/product/update/{id}/` | Product update
+PATCH | `api/v1/ecom/product/update/{id}/` | Product partial update
+DELETE | `api/v1/ecom/product/delete/{id}/` | Product delete
