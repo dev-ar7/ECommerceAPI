@@ -31,7 +31,7 @@ GET | `/api/v1/` | API Documentation
 
 Method | Endpoint | Functionality
 --- | --- | ---
-POST | `/api/v1/ecom/auth/` | Creates a user
+POST | `/api/v1/ecom/auth/` | Create an user
 GET | `/api/v1/ecom/auth/` | List all users
 GET | `/api/v1/ecom/auth/{id}` | User details
 PUT | `/api/v1/ecom/auth/{id}` | User update
