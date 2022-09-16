@@ -8,7 +8,7 @@ Here you can Signup, Login, Add, View, Update and Delete Products. In this API t
 <div id="requirements">
 <h2>Requirements to use!</h2>
 <ol>
-    <li>you need to have Python v3, Django v3 and MySQL installed on your machine</li>
+    <li>you need to have Python v3, Django v4 and MySQL installed on your machine</li>
     <li>create MySQL database and name it <strong>"ecommerceapi"</strong></li>
     <li>enter your database credentials(password, id, port, db name) in settings.py</li>
     <li>type: pip3 -r install requirements.txt (pip3 because this project runs on python3 and django version 3)</li>
