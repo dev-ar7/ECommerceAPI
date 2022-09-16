@@ -6,7 +6,7 @@ Here you can Signup, Login, Add, View, Update and Delete Products. In this API t
 
 
 <div id="requirements">
-<h2>Requirements to use!</h2>
+<h2>Requirements to use as localhost</h2>
 <ol>
     <li>you need to have Python v3, Django v4 and MySQL installed on your machine</li>
     <li>create MySQL database and name it <strong>"ecommerceapi"</strong></li>
