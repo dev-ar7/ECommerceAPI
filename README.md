@@ -15,7 +15,6 @@ Here you can Signup, Login, Add, View, Update and Delete Products. In this API t
     <li>open your CMD(Command Line) on Windows or Terminal on Mac</li>
     <li>go to the project directory</li>
     <li>type: source env/bin/activate - (to activate virtual env)</li>
-    <li>type: cd ECommerceAPI/</li>
     <li>type: python3 manage.py makemigrations</li>
     <li>type: python3 manage.py migrate</li>
     <li>type: python3 manage.py runserver</li>
